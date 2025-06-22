@@ -12,7 +12,6 @@ This project is a **pixel-perfect clone of an Amazon-style product card**, built
 - Title  
 - Star rating + review count  
 - Price  
-- Prime badge  
 - “Add to Cart” button  
 
 ✅ Responsive and hover effects  
